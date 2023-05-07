@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis _ projects
+# Exploratory-Data-Analysis-Practice
