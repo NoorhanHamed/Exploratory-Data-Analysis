@@ -1,3 +1,6 @@
 # Exploratory-Data-Analysis
-a quick exercises for recap EDA by pandas
+A quick exercises for recap EDA by pandas
+
+There are four projects with four datasets
 all datasets from kaggele
+
